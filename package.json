@@ -1,0 +1,27 @@
+{
+  "name": "CLHangman",
+  "version": "1.0.0",
+  "description": "A word guess game you can play in the command line!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heguanelvis/CLHangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heguanelvis/CLHangman/issues"
+  },
+  "homepage": "https://github.com/heguanelvis/CLHangman#readme",
+  "dependencies": {
+    "boxen": "^1.3.0",
+    "chalk": "^2.4.1",
+    "figlet": "^1.2.0",
+    "inquirer": "^5.2.0",
+    "is-letter": "^1.1.1"
+  }
+}
