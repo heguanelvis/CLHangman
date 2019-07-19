@@ -1,5 +1,5 @@
 {
-  "name": "CLHangman",
+  "name": "clhangman",
   "version": "1.0.0",
   "description": "A word guess game you can play in the command line!",
   "main": "index.js",

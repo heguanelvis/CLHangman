@@ -1,2 +1,4 @@
 # CLHangman
-A word guess game you can play in the command line!
+A command line version word guess game featuring vegetable names
+
+`node index.js` to start the game!
